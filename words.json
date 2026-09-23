@@ -1,0 +1,22 @@
+{
+  "Animals": [
+    "elephant", "giraffe", "dolphin", "kangaroo", "penguin",
+    "cheetah", "octopus", "butterfly", "crocodile", "squirrel",
+    "turtle", "falcon", "camel", "zebra", "hedgehog"
+  ],
+  "Countries": [
+    "tunisia", "algeria", "morocco", "egypt", "france",
+    "germany", "brazil", "canada", "japan", "mexico",
+    "norway", "portugal", "argentina", "australia", "turkey"
+  ],
+  "Programming": [
+    "python", "java", "swift", "javascript", "variable",
+    "function", "compiler", "database", "algorithm", "recursion",
+    "boolean", "integer", "github", "debugger", "keyboard"
+  ],
+  "Food": [
+    "couscous", "pizza", "pasta", "burger", "sandwich",
+    "avocado", "banana", "chocolate", "pancake", "omelette",
+    "strawberry", "croissant", "lasagna", "brik", "harissa"
+  ]
+}
