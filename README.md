@@ -85,4 +85,4 @@ and unit-tested game logic separated from the UI.
 
 ## License
 
-License: not chosen yet.
+© 2026 Hamza Ben Ismail. All rights reserved.
